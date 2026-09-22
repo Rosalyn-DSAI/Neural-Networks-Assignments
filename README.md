@@ -1,8 +1,9 @@
-# Neural Networks — CS 5720
+# Neural Networks - CS 5720
 
 ## Student Information
 
 **Name:** Chukwunonyelum Rosalyn Ezeako
+
 **Student ID:** 700778985
 
 ---
@@ -87,15 +88,15 @@ This main README provides an overview of the complete course repository, while t
 
 The assignments in this repository primarily use:
 
-* **Python** — programming language used for neural network implementation and analysis
-* **Jupyter Notebook / JupyterLab** — development environment used to write, run, and document code
-* **TensorFlow** — deep learning framework used to build and train neural network models
-* **Keras** — high-level neural network API used with TensorFlow
-* **TensorBoard** — visualization tool used to monitor model training and performance
-* **NumPy** — numerical computation and array manipulation
-* **Pandas** — data loading and manipulation where required
-* **Matplotlib** — visualization of results, model performance, and other outputs
-* **Scikit-learn** — data preprocessing, model evaluation, and other machine learning utilities where applicable
+* **Python** - programming language used for neural network implementation and analysis
+* **Jupyter Notebook / JupyterLab** - development environment used to write, run, and document code
+* **TensorFlow** - deep learning framework used to build and train neural network models
+* **Keras** - high-level neural network API used with TensorFlow
+* **TensorBoard** - visualization tool used to monitor model training and performance
+* **NumPy** - numerical computation and array manipulation
+* **Pandas** - data loading and manipulation where required
+* **Matplotlib** - visualization of results, model performance, and other outputs
+* **Scikit-learn** - data preprocessing, model evaluation, and other machine learning utilities where applicable
 
 The specific libraries required for each assignment are documented within the corresponding assignment folder or notebook.
 

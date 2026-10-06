@@ -2,7 +2,7 @@
 
 A practical neural-network assignment exploring **2-D convolution from scratch** and **transfer learning with VGG16** through frozen feature extraction and fine-tuning.
 
-The notebook first implements convolution manually with NumPy to show how a filter moves across an input matrix and produces a feature map. It then compares two transfer-learning approaches using the same cat-and-dog image dataset: one where the pretrained VGG16 convolutional/base layers remain frozen, and another where the final convolutional block is unfrozen and fine-tuned.
+The notebook first implements convolution manually with NumPy to show how a filter moves across an input matrix and produces a feature map. It then compares two transfer-learning approaches (feature extraction vs. fine-tuning) using the same cat-and-dog image dataset, preprocessing setup, and number of training epochs. One where the pretrained VGG16 convolutional/base layers remain frozen, and another where the final convolutional block is unfrozen and fine-tuned.
 
 ## What This Project Covers
 

@@ -169,12 +169,6 @@ The fine-tuned network learned the training data much more strongly than the fro
 ## Feature Extraction vs. Fine-Tuning
 
 The two experiments show the trade-off between keeping a pretrained network frozen and allowing part of it to adapt to the new dataset.
-
-| Method | Trainable Parameters | Training Time | Accuracy |
-| --- | ---: | ---: | ---: |
-| Frozen Feature Extractor | 513 | 823.42 seconds | 83.0% |
-| Fine-Tuned Network | 7,079,937 | 974.44 seconds | 84.85% |
-
 The notebook comparison table is shown below:
 
 ![Feature extraction and fine-tuning comparison](images/Model%20Comparism%20Table%20.png)

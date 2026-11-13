@@ -187,22 +187,6 @@ The `en_core_web_sm` model **must be installed separately** from the `spacy` Pyt
 
 ---
 
-## Repository Structure
-
-```text
-Neural Networks_HA4/
-│
-├── Neural Networks_HA4.ipynb
-├── README.md
-│
-└── images/
-    ├── 1 NLP Preprocessing Pipeline.png
-    ├── 2 Named Entity Recognition with SpaCy.png
-    └── 3 Scaled Dot-Product Attention.png
-```
-
----
-
 ## Technologies Used
 
 **Python · NumPy · NLTK · spaCy · PorterStemmer · Regex · Jupyter Notebook**
